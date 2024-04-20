@@ -19,7 +19,7 @@
 
 ## 88HE 0.1
 * 3D model missing stab holes
-
+* 4 layer PCB, 1.5862mm
 ## In development / to do
 - [ ] Firmware driven multilayout support
 - [ ] Improved GUI
